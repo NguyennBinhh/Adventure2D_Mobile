@@ -45,7 +45,7 @@
    <img src="demo/6.jpg" width="260">
   
   
-  <i>Link demo và apk: https://drive.google.com/drive/folders/1bkWjf9oHGOFDm_2E5xxP8d3A1yIF9JDl?usp=sharing </i>
+  <i>📂 Link demo và apk: https://drive.google.com/drive/folders/1bkWjf9oHGOFDm_2E5xxP8d3A1yIF9JDl?usp=sharing </i>
 </p>
 
 ---
@@ -53,41 +53,30 @@
 ## 🕹️ Yêu Cầu & Cài Đặt (Requirements & Setup)
 1, Tải và cài đặt Unity 2022.3.58f1 LTS hoặc cao hơn
 
-2, Clone dự án: git clone https://github.com/NguyennBinhh/SokobanMobile.git
+2, Clone dự án: git clone [https://github.com/NguyennBinhh/SokobanMobile.git](https://github.com/NguyennBinhh/Adventure2D_Mobile.git)
 
 3, Mở dự án qua Unity Hub
 
 4, Nhấn Play để chạy thử trong Editor
 
-📂 Lưu ý: File LevelData.json gốc được copy từ StreamingAssets vào Application.persistentDataPath ở lần chạy đầu tiên nếu chưa có.
-
 ---
 
 ## 🛣️ Roadmap
-✅ Cơ bản Sokoban hoạt động
-
-✅ Undo đa bước
-
-✅ Hệ thống lưu dữ liệu level của người chơi
-
-✅ Menu chọn level
+✅ Cơ bản Platformer hoạt động
 
 ✅ Hệ thống âm thanh
 
-🟩 Gợi ý đường đi
+✅ Thay đổi nhân vật của người chơi
 
-🟩 Hiệu ứng chuyển cảnh
+✅ Menu chọn level
 
-🟩 Bảng xếp hạng người dùng
+✅ Độ khó tăng theo level
+
+✅ Hoạt ảnh xuất hiện của Ai
 
 ---
 
 ## 👥 Credits
-Font: Kenney.nl
-
-Âm thanh: FreeSound.org
-
-Icon & Tileset: Kenney Tiles Pack
 
 Code, thiết kế và triển khai bởi Nguyễn Bá Bình.
 
