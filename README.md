@@ -40,12 +40,12 @@
   <img src="demo/3.jpg" width="260">
   <img src="demo/1.jpg" width="260">
 
-  <img src="demo/2.jpg" width="250">
-  <img src="demo/5.jpg" width="250">
-   <img src="demo/6.jpg" width="250">
+  <img src="demo/2.jpg" width="260">
+  <img src="demo/5.jpg" width="260">
+   <img src="demo/6.jpg" width="260">
   
   
-  <i>Sample results</i>
+  <i>Link demo và apk: https://drive.google.com/drive/folders/1bkWjf9oHGOFDm_2E5xxP8d3A1yIF9JDl?usp=sharing </i>
 </p>
 
 ---
