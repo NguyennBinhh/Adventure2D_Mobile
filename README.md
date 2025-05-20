@@ -53,7 +53,7 @@
 ## 🕹️ Yêu Cầu & Cài Đặt (Requirements & Setup)
 1, Tải và cài đặt Unity 2022.3.58f1 LTS hoặc cao hơn
 
-2, Clone dự án: git clone [https://github.com/NguyennBinhh/SokobanMobile.git](https://github.com/NguyennBinhh/Adventure2D_Mobile.git)
+2, Clone dự án: git clone https://github.com/NguyennBinhh/Adventure2D_Mobile.git
 
 3, Mở dự án qua Unity Hub
 
