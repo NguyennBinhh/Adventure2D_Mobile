@@ -36,9 +36,9 @@
 ## 📸 Demo
 
 <p align="left">
-  <img src="demo/4.jpg" width="250">
-  <img src="demo/3.jpg" width="250">
-  <img src="demo/1.jpg" width="250">
+  <img src="demo/4.jpg" width="260">
+  <img src="demo/3.jpg" width="260">
+  <img src="demo/1.jpg" width="260">
 
   <img src="demo/2.jpg" width="250">
   <img src="demo/5.jpg" width="250">
