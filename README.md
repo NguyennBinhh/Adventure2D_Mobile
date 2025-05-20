@@ -45,7 +45,7 @@
    <img src="demo/6.jpg" width="260">
   
   
-  <i>📂 Link demo và apk: https://drive.google.com/drive/folders/1bkWjf9oHGOFDm_2E5xxP8d3A1yIF9JDl?usp=sharing </i>
+  <i>📂 Link video demo chi tiết và apk: https://drive.google.com/drive/folders/1bkWjf9oHGOFDm_2E5xxP8d3A1yIF9JDl?usp=sharing </i>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 ✅ Độ khó tăng theo level
 
-✅ Hoạt ảnh xuất hiện của Ai
+✅ Hoạt ảnh xuất hiện của Ui
 
 ---
 
